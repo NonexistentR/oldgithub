@@ -1,8 +1,16 @@
-<style>
-body {background-color: black;}
-h3   {color: darkslategrey;}
-h1   {color: floralwhite;}
-p    {color: blueviolet;}
-p1   {color: rosybrown;}
+body {
+  background-color: black;
+}
 
-</style>
+h1 {
+  color: floralwhite;
+}
+h3 {
+  color: darkslategrey;
+}
+p {
+  color: blueviolet;
+}
+p {
+  color: rosybrown;
+}
